@@ -92,6 +92,6 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "🚘" }, async (dest, zk
 zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOptions) => {  
     const { ms, repondre, auteurMessage } = commandeOptions;  
   
-    repondre("THANK YOU FOR CHOOSING JAVIEL-MD, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ GROUP LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://chat.whatsapp.com/EGWzhdS2Q44IrWUOVHzBme] \n\n ☉ GITHUB LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://github.com/Pkdriller/PKXMD-BOT] \n\n\n𝑴𝒂𝒅𝒆 𝒃𝒚 𝑱𝑨𝑽𝑰𝑬𝑳");  
+    repondre("THANK YOU FOR CHOOSING JAVIEL-MD, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ Channel LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029VarDt9t30LKL1SoYXy26] \n\n ☉ GITHUB LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://github.com/Jaydendev112/Javiel-md] \n\n\n𝑴𝒂𝒅𝒆 𝒃𝒚 𝑱𝑨𝑽𝑰𝑬𝑳");  
     await zk.sendMessage(auteurMessage, { text: `THANK YOU FOR CHOOSING JAVIEL-MD, MAKE SURE YOU FOLLOW THESE LINKS.` }, { quoted: ms });  
 });
