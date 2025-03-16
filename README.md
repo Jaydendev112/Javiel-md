@@ -16,3 +16,9 @@
 </a></p>
 - <a href="https://github.com/Jaydendev112/Javiel-md/fork"><img title="FORK THIS REPO" src="https://img.shields.io/badge/TAP TO FORK REPO-h?color=rgb(0, 255, 255)&style=for-the-badge&logo=porsche&logoColor=yellow" width="220" height="38.45"/></a>
 </p>
+
+
+# ɢᴇᴛ ᴘᴀɪʀ ᴄᴏᴅᴇ
+</a></p>
+- <a href="https://malvin-session-sddo.onrender.com/pair"><img title="TAP FOR SESSION ID" src="https://img.shields.io/badge/TAP FOR SESSION ID-h?color=pink&style=for-the-badge&logo=porsche&logoColor=pink" width="220" height="38.45"/></a>
+</p>
