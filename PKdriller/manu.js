@@ -54,7 +54,7 @@ ${readMore}
 
     menuMsg += `\n✨ *JAVIEL-MD - Developed by The Best!* ✨`;  
 
-    let imageUrl = "https://files.catbox.moe/fbpw8g.jpg";  
+    let imageUrl = "https://i.ibb.co/1Y011Szr/images-19.jpg";  
 
     try {  
         zk.sendMessage(dest, {   
